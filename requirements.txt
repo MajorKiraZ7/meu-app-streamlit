@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+PyPDF2
+langchain
+openai==0.28.0
+python-docx
+transformers
+torch
+sentencepiece
+huggingface_hub
